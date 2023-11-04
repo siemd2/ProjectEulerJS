@@ -8,10 +8,8 @@ function multiplesOf3and5(number) {
         if (i % 3 === 0 || i % 5 === 0){
             total += i;
         }
-        
     }
-
     return total;
   }
-  
+
 console.log(multiplesOf3and5(1000));
