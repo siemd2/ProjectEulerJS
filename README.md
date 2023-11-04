@@ -1,2 +1,2 @@
 # ProjectEulerJS
-Attempting to solve DSA problems from Project Euler daily
+A Euler problem a day, keeps unemployment at bay.
